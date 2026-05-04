@@ -8,7 +8,7 @@
 ### 1. 环境准备
 - 安装 Git 工具：从 Git 官网下载并安装，确保终端可识别 `git` 命令。
 - 配置 Git 全局用户信息（仅需配置一次）：
-  ```bash
+```bash
 git config --global user.name "Alonale0"
 git config --global user.email "你注册GitHub的邮箱地址"
 ```
